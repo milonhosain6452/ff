@@ -1,2 +1,5 @@
-telethon
+telethon==1.27.4
 flask
+easyocr
+pillow
+numpy
